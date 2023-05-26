@@ -1,0 +1,29 @@
+.container{
+    margin-top: 40px;
+}
+.input-group{
+    width: 300px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.a123{
+    height: 20px;
+}
+.table1{
+    margin-top: 50px;
+    margin-left: 40px;
+    text-align: center;
+}
+.btn{
+    border-radius: 10px;
+}
+.btn-danger{
+    margin-left: 10px;
+}
+.table3 input{
+border: transparent;
+text-align: center;
+}
